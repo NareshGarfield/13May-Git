@@ -1,1 +1,0 @@
-You can call out code or a command within a sentence with single backticks.

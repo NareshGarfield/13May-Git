@@ -1,0 +1,23 @@
+You can call out code or a command within a sentence with single backticks.
+
+touch filename.txt - create a file.
+
+nano filename.txt - write a file (i to start write., esc, :wq to exit)
+
+cat filename.txt - open a file
+
+git status - to check the files status whether it's committed or not
+
+git init - initialize a empty repository.
+
+git add . - to add the file for the commit
+
+git commit -m "comments" - commit the added files
+
+git remote add origin https://github.com/username/reponame.git
+git branch -M main
+git push -u origin main : these 3 commands used to push an existing repository from the command line.
+
+git log - to view the previous process.
+
+git branch - view the branches 
